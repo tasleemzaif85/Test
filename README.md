@@ -1,25 +1,6 @@
-# Test
+# Test1
 
 Performance test project managed by **PerfStudio** — AI-Powered Performance Testing.
-
-## Folder Structure
-
-```
-<repo_root>/
-├── <ProjectName>/
-│   └── <CollectionName>/     # One folder per API Source
-│       ├── QA/
-│       │   ├── testData/     # CSV files for QA environment
-│       │   ├── script/       # Generated JMeter (.jmx) / K6 (.js) scripts
-│       │   ├── results/      # Test run output & reports
-│       │   └── config/       # Environment-specific config (URLs, ports)
-│       ├── Staging/
-│       │   └── ...           # Same structure as QA
-│       └── UAT/
-│           └── ...           # Same structure as QA
-├── .github/workflows/        # CI pipeline definition
-└── README.md
-```
 
 ## Branch Strategy
 

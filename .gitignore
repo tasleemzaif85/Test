@@ -1,0 +1,10 @@
+# PerfStudio — ignore large binary files and temp artifacts
+*_workspace/
+*.log
+*.tmp
+node_modules/
+.env
+
+# Execution results (JTL, JMeter HTML reports, analytics PDFs) — these are mirrored to
+# S3, not git.
+results/
