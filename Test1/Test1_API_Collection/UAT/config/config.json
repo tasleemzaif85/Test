@@ -20,9 +20,9 @@
   "rules": [
     {
       "id": 16,
-      "metric": "Response Time",
+      "metric": "Error Rate",
       "operator": ">",
-      "unit": "ms",
+      "unit": "%",
       "severity": "error",
       "value": "1"
     }
