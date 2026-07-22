@@ -1,0 +1,109 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1784752911534,725,Login (get access + refresh token),200,OK,Thread Group 1-1,text,true,,2908,264,1,1,https://dummyjson.com/auth/login,721,0,347
+1784752913281,155,Get Authenticated User (me),200,OK,Thread Group 1-1,text,true,,2497,539,1,1,https://dummyjson.com/auth/me,154,0,0
+1784752914437,144,Refresh Token,200,OK,Thread Group 1-1,text,true,,2731,979,1,1,https://dummyjson.com/auth/refresh,144,0,0
+1784752915582,146,Login (alias: /user/login),200,OK,Thread Group 1-1,text,true,,2913,648,1,1,https://dummyjson.com/user/login,146,0,0
+1784752916729,147,Get Authenticated User (alias: /user/me),200,OK,Thread Group 1-1,text,true,,2486,539,1,1,https://dummyjson.com/user/me,146,0,0
+1784752917877,143,Test Route - GET,200,OK,Thread Group 1-1,text,true,,1078,536,1,1,https://dummyjson.com/test,143,0,0
+1784752919021,142,Test Route - POST,200,OK,Thread Group 1-1,text,true,,1071,583,1,1,https://dummyjson.com/test,142,0,0
+1784752920164,168,Test Route - PUT,200,OK,Thread Group 1-1,text,true,,1072,590,1,1,https://dummyjson.com/test,168,0,0
+1784752921335,144,Test Route - PATCH,200,OK,Thread Group 1-1,text,true,,1074,592,1,1,https://dummyjson.com/test,144,0,0
+1784752922480,144,Test Route - DELETE,200,OK,Thread Group 1-1,text,true,,1075,558,1,1,https://dummyjson.com/test,144,0,0
+1784752923625,144,Get Caller IP Address,200,OK,Thread Group 1-1,text,true,,1125,534,1,1,https://dummyjson.com/ip,144,0,0
+1784752924770,26,Get All Products,200,OK,Thread Group 1-1,text,true,,45189,540,1,1,https://dummyjson.com/products,23,0,0
+1784752925804,148,Get Products - Paginated,200,OK,Thread Group 1-1,text,true,,16566,556,1,1,https://dummyjson.com/products?limit=10&skip=0,147,0,0
+1784752926954,150,Get Products - Sorted,200,OK,Thread Group 1-1,text,true,,42631,563,1,1,https://dummyjson.com/products?sortBy=price&order=asc,148,0,0
+1784752928105,146,Get Products - Field Selection,200,OK,Thread Group 1-1,text,true,,3294,568,1,1,"https://dummyjson.com/products?select=title,price,category",146,0,0
+1784752929253,2149,Get Products - Simulate Delay (perf testing),200,OK,Thread Group 1-1,text,true,,45156,551,1,1,https://dummyjson.com/products?delay=2000,2147,0,0
+1784752932403,24,Get Product By Id,200,OK,Thread Group 1-1,text,true,,2601,542,1,1,https://dummyjson.com/products/1,23,0,0
+1784752933428,148,Search Products,200,OK,Thread Group 1-1,text,true,,38351,555,1,1,https://dummyjson.com/products/search?q=phone,146,0,0
+1784752934577,144,Get Product Categories,200,OK,Thread Group 1-1,text,true,,3575,551,1,1,https://dummyjson.com/products/categories,144,0,0
+1784752935722,144,Get Product Category List,200,OK,Thread Group 1-1,text,true,,1386,554,1,1,https://dummyjson.com/products/category-list,143,0,0
+1784752936867,143,Get Products By Category,200,OK,Thread Group 1-1,text,true,,8479,556,1,1,https://dummyjson.com/products/category/beauty,143,0,0
+1784752938011,145,Add New Product,201,Created,Thread Group 1-1,text,true,,1210,1163,1,1,https://dummyjson.com/products/add,145,0,0
+1784752939157,532,Update Product (PUT),200,OK,Thread Group 1-1,text,true,,1577,596,1,1,https://dummyjson.com/products/1,532,0,0
+1784752940690,143,Update Product (PATCH),200,OK,Thread Group 1-1,text,true,,1591,588,1,1,https://dummyjson.com/products/1,143,0,0
+1784752941833,145,Delete Product,200,OK,Thread Group 1-1,text,true,,2633,564,1,1,https://dummyjson.com/products/1,145,0,0
+1784752942979,146,Get All Carts,200,OK,Thread Group 1-1,text,true,,31129,537,1,1,https://dummyjson.com/carts,145,0,0
+1784752944126,151,Get Carts - Paginated,200,OK,Thread Group 1-1,text,true,,11376,553,1,1,https://dummyjson.com/carts?limit=10&skip=0,151,0,0
+1784752945278,149,Get Cart By Id,200,OK,Thread Group 1-1,text,true,,2056,539,1,1,https://dummyjson.com/carts/1,149,0,0
+1784752946428,144,Get Carts By User Id,200,OK,Thread Group 1-1,text,true,,2113,544,1,1,https://dummyjson.com/carts/user/1,144,0,0
+1784752947573,145,Add New Cart,201,Created,Thread Group 1-1,text,true,,1634,725,1,1,https://dummyjson.com/carts/add,145,0,0
+1784752948719,147,Update Cart,200,OK,Thread Group 1-1,text,true,,2307,663,1,1,https://dummyjson.com/carts/1,146,0,0
+1784752949866,145,Delete Cart,200,OK,Thread Group 1-1,text,true,,2126,561,1,1,https://dummyjson.com/carts/1,145,0,0
+1784752951013,148,Get All Recipes,200,OK,Thread Group 1-1,text,true,,28466,539,1,1,https://dummyjson.com/recipes,147,0,0
+1784752952165,147,Get Recipes - Paginated,200,OK,Thread Group 1-1,text,true,,9690,555,1,1,https://dummyjson.com/recipes?limit=10&skip=0,147,0,0
+1784752953313,146,Get Recipes - Sorted,200,OK,Thread Group 1-1,text,true,,28766,561,1,1,https://dummyjson.com/recipes?sortBy=name&order=asc,145,0,0
+1784752954460,144,Get Recipes - Field Selection,200,OK,Thread Group 1-1,text,true,,3528,570,1,1,"https://dummyjson.com/recipes?select=name,cuisine,difficulty",144,0,0
+1784752955605,142,Get Recipe By Id,200,OK,Thread Group 1-1,text,true,,1827,541,1,1,https://dummyjson.com/recipes/1,142,0,0
+1784752956749,143,Search Recipes,200,OK,Thread Group 1-1,text,true,,1081,554,1,1,https://dummyjson.com/recipes/search?q=phone,143,0,0
+1784752957893,142,Get Recipe Tags,200,OK,Thread Group 1-1,text,true,,2013,544,1,1,https://dummyjson.com/recipes/tags,141,0,0
+1784752959035,142,Get Recipes By Tag,200,OK,Thread Group 1-1,text,true,,1866,549,1,1,https://dummyjson.com/recipes/tag/Pizza,142,0,0
+1784752960178,147,Get Recipes By Meal Type,200,OK,Thread Group 1-1,text,true,,25086,556,1,1,https://dummyjson.com/recipes/meal-type/Dinner,147,0,0
+1784752961326,149,Add New Recipe,200,OK,Thread Group 1-1,text,true,,1364,1029,1,1,https://dummyjson.com/recipes/add,149,0,0
+1784752962476,143,Update Recipe (PUT),200,OK,Thread Group 1-1,text,true,,1830,659,1,1,https://dummyjson.com/recipes/1,143,0,0
+1784752963620,142,Update Recipe (PATCH),200,OK,Thread Group 1-1,text,true,,1825,586,1,1,https://dummyjson.com/recipes/1,142,0,0
+1784752964763,142,Delete Recipe,200,OK,Thread Group 1-1,text,true,,1883,563,1,1,https://dummyjson.com/recipes/1,142,0,0
+1784752965906,26,Get All Users,200,OK,Thread Group 1-1,text,true,,42996,537,1,1,https://dummyjson.com/users,25,0,0
+1784752966933,147,Get Users - Paginated,200,OK,Thread Group 1-1,text,true,,15119,553,1,1,https://dummyjson.com/users?limit=10&skip=0,147,0,0
+1784752968081,150,Get Users - Sorted,200,OK,Thread Group 1-1,text,true,,42852,564,1,1,https://dummyjson.com/users?sortBy=firstName&order=asc,148,0,0
+1784752969231,3160,Get Users - Field Selection,200,OK,Thread Group 1-1,text,true,,2899,567,1,1,"https://dummyjson.com/users?select=firstName,lastName,age",3159,0,0
+1784752973391,707,Get User By Id,200,OK,Thread Group 1-1,text,true,,2485,539,1,1,https://dummyjson.com/users/1,707,0,177
+1784752975099,143,Search Users,200,OK,Thread Group 1-1,text,true,,1087,552,1,1,https://dummyjson.com/users/search?q=phone,143,0,0
+1784752976243,151,Filter Users,200,OK,Thread Group 1-1,text,true,,32977,571,1,1,https://dummyjson.com/users/filter?key=hair.color&value=Brown,149,0,0
+1784752977394,144,Get User's Carts,200,OK,Thread Group 1-1,text,true,,2117,545,1,1,https://dummyjson.com/users/1/carts,144,0,0
+1784752978539,144,Get User's Posts,200,OK,Thread Group 1-1,text,true,,1648,545,1,1,https://dummyjson.com/users/1/posts,144,0,0
+1784752979684,143,Get User's Todos,200,OK,Thread Group 1-1,text,true,,1231,545,1,1,https://dummyjson.com/users/1/todos,143,0,0
+1784752980828,144,Add New User,201,Created,Thread Group 1-1,text,true,,1815,633,1,1,https://dummyjson.com/users/add,143,0,0
+1784752981973,144,Update User (PUT),200,OK,Thread Group 1-1,text,true,,2482,586,1,1,https://dummyjson.com/users/1,144,0,0
+1784752983118,144,Update User (PATCH),200,OK,Thread Group 1-1,text,true,,2487,606,1,1,https://dummyjson.com/users/1,144,0,0
+1784752984263,149,Delete User,200,OK,Thread Group 1-1,text,true,,2546,561,1,1,https://dummyjson.com/users/1,149,0,0
+1784752985413,23,Get All Posts,200,OK,Thread Group 1-1,text,true,,15716,537,1,1,https://dummyjson.com/posts,22,0,0
+1784752986437,146,Get Posts - Paginated,200,OK,Thread Group 1-1,text,true,,6125,553,1,1,https://dummyjson.com/posts?limit=10&skip=0,146,0,0
+1784752987584,148,Get Posts - Sorted,200,OK,Thread Group 1-1,text,true,,13610,560,1,1,https://dummyjson.com/posts?sortBy=title&order=asc,147,0,0
+1784752988733,146,Get Posts - Field Selection,200,OK,Thread Group 1-1,text,true,,4438,567,1,1,"https://dummyjson.com/posts?select=title,userId,reactions",146,0,0
+1784752989880,142,Get Post By Id,200,OK,Thread Group 1-1,text,true,,1503,539,1,1,https://dummyjson.com/posts/1,142,0,0
+1784752991023,144,Search Posts,200,OK,Thread Group 1-1,text,true,,1565,552,1,1,https://dummyjson.com/posts/search?q=phone,144,0,0
+1784752992168,143,Get Posts By User Id,200,OK,Thread Group 1-1,text,true,,1648,544,1,1,https://dummyjson.com/posts/user/1,143,0,0
+1784752993311,143,Get Comments For Post,200,OK,Thread Group 1-1,text,true,,1496,548,1,1,https://dummyjson.com/posts/1/comments,143,0,0
+1784752994454,146,Get Post Tags,200,OK,Thread Group 1-1,text,true,,15205,542,1,1,https://dummyjson.com/posts/tags,146,0,0
+1784752995601,144,Get Post Tag List,200,OK,Thread Group 1-1,text,true,,2711,546,1,1,https://dummyjson.com/posts/tag-list,144,0,0
+1784752996747,147,Get Posts By Tag,200,OK,Thread Group 1-1,text,true,,14676,549,1,1,https://dummyjson.com/posts/tag/history,147,0,0
+1784752997895,144,Add New Post,201,Created,Thread Group 1-1,text,true,,1166,705,1,1,https://dummyjson.com/posts/add,144,0,0
+1784752999039,148,Update Post (PUT),200,OK,Thread Group 1-1,text,true,,1489,616,1,1,https://dummyjson.com/posts/1,148,0,0
+1784753000188,143,Update Post (PATCH),200,OK,Thread Group 1-1,text,true,,1489,583,1,1,https://dummyjson.com/posts/1,143,0,0
+1784753001332,151,Delete Post,200,OK,Thread Group 1-1,text,true,,1552,561,1,1,https://dummyjson.com/posts/1,151,0,0
+1784753002484,144,Get All Comments,200,OK,Thread Group 1-1,text,true,,5144,540,1,1,https://dummyjson.com/comments,144,0,0
+1784753003629,144,Get Comments - Paginated,200,OK,Thread Group 1-1,text,true,,2441,556,1,1,https://dummyjson.com/comments?limit=10&skip=0,144,0,0
+1784753004774,145,Get Comment By Id,200,OK,Thread Group 1-1,text,true,,1178,542,1,1,https://dummyjson.com/comments/1,145,0,0
+1784753005920,143,Get Comments By Post Id,200,OK,Thread Group 1-1,text,true,,1490,547,1,1,https://dummyjson.com/comments/post/1,143,0,0
+1784753007064,144,Add New Comment,201,Created,Thread Group 1-1,text,true,,1175,650,1,1,https://dummyjson.com/comments/add,144,0,0
+1784753008209,143,Update Comment (PUT),200,OK,Thread Group 1-1,text,true,,1184,618,1,1,https://dummyjson.com/comments/1,143,0,0
+1784753009353,142,Update Comment (PATCH),200,OK,Thread Group 1-1,text,true,,1186,585,1,1,https://dummyjson.com/comments/1,142,0,0
+1784753010496,143,Delete Comment,200,OK,Thread Group 1-1,text,true,,1232,564,1,1,https://dummyjson.com/comments/1,143,0,0
+1784753011641,152,Get All Todos,200,OK,Thread Group 1-1,text,true,,3530,537,1,1,https://dummyjson.com/todos,152,0,0
+1784753012794,144,Get Todos - Paginated,200,OK,Thread Group 1-1,text,true,,1931,553,1,1,https://dummyjson.com/todos?limit=10&skip=0,144,0,0
+1784753013939,143,Get Todo By Id,200,OK,Thread Group 1-1,text,true,,1135,539,1,1,https://dummyjson.com/todos/1,143,0,0
+1784753015083,142,Get Random Todo,200,OK,Thread Group 1-1,text,true,,1113,544,1,1,https://dummyjson.com/todos/random,142,0,0
+1784753016226,142,Get Todos By User Id,200,OK,Thread Group 1-1,text,true,,1227,544,1,1,https://dummyjson.com/todos/user/1,142,0,0
+1784753017368,145,Add New Todo,201,Created,Thread Group 1-1,text,true,,1132,653,1,1,https://dummyjson.com/todos/add,145,0,0
+1784753018514,149,Update Todo (PUT),200,OK,Thread Group 1-1,text,true,,1130,586,1,1,https://dummyjson.com/todos/1,149,0,0
+1784753019664,143,Update Todo (PATCH),200,OK,Thread Group 1-1,text,true,,1135,589,1,1,https://dummyjson.com/todos/1,143,0,0
+1784753020808,141,Delete Todo,200,OK,Thread Group 1-1,text,true,,1192,561,1,1,https://dummyjson.com/todos/1,141,0,0
+1784753021950,148,Get All Quotes,200,OK,Thread Group 1-1,text,true,,4940,538,1,1,https://dummyjson.com/quotes,148,0,0
+1784753023099,144,Get Quotes - Paginated,200,OK,Thread Group 1-1,text,true,,2378,554,1,1,https://dummyjson.com/quotes?limit=10&skip=0,144,0,0
+1784753024244,143,Get Quote By Id,200,OK,Thread Group 1-1,text,true,,1156,540,1,1,https://dummyjson.com/quotes/1,143,0,0
+1784753025388,143,Get Random Quote,200,OK,Thread Group 1-1,text,true,,1153,545,1,1,https://dummyjson.com/quotes/random,143,0,0
+1784753026532,144,Generate 2FA TOTP Code,200,OK,Thread Group 1-1,text,true,,1088,556,1,1,https://dummyjson.com/2fa?key=JBSWY3DPEHPK3PXP,144,0,0
+1784753027677,250,Create Custom Mock Response,200,OK,Thread Group 1-1,text,true,,1093,653,1,1,https://dummyjson.com/c/generate,249,0,0
+1784753028927,3291,Generate Square Image,200,OK,Thread Group 1-1,bin,true,,3211,541,1,1,https://dummyjson.com/image/150,3291,0,0
+1784753033219,163,Generate Sized Image,200,OK,Thread Group 1-1,bin,true,,7279,545,1,1,https://dummyjson.com/image/400x200,163,0,0
+1784753034383,259,Generate Image With Background Color,200,OK,Thread Group 1-1,bin,true,,7298,552,1,1,https://dummyjson.com/image/400x200/008080,259,0,95
+1784753035643,159,Generate Image With Text + Colors,200,OK,Thread Group 1-1,bin,true,,6384,576,1,1,https://dummyjson.com/image/400x200/008080/ffffff?text=Hello+Peter,159,0,0
+1784753036804,170,Generate Image - Custom Format,200,OK,Thread Group 1-1,bin,true,,2610,572,1,1,https://dummyjson.com/image/400x200?type=webp&text=Hello+Peter,170,0,0
+1784753037975,144,Generate Identicon,200,OK,Thread Group 1-1,bin,true,,2434,547,1,1,https://dummyjson.com/icon/abc123/150,144,0,0
+1784753039120,141,Mock 200 OK - GET,200,OK,Thread Group 1-1,text,true,,1083,540,1,1,https://dummyjson.com/http/200,141,0,0
+1784753040261,140,Mock 201 Created - POST,201,Created,Thread Group 1-1,text,true,,1081,591,1,1,https://dummyjson.com/http/201,140,0,0
+1784753041403,140,Mock 200 OK - PUT,200,OK,Thread Group 1-1,text,true,,1079,590,1,1,https://dummyjson.com/http/200,140,0,0
+1784753042544,139,Mock 200 OK - PATCH,200,OK,Thread Group 1-1,text,true,,1085,592,1,1,https://dummyjson.com/http/200,139,0,0
+1784753043684,139,Mock 200 OK - DELETE,200,OK,Thread Group 1-1,text,true,,1073,562,1,1,https://dummyjson.com/http/200,139,0,0
