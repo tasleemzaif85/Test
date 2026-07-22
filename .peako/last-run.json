@@ -1,0 +1,7 @@
+{
+  "triggered_at": "2026-07-22T19:14:12.919Z",
+  "script": "Test1_Load_Test.jmx",
+  "users": 1,
+  "rampup": 1,
+  "duration": -1
+}
