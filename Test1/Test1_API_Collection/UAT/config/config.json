@@ -1,0 +1,55 @@
+{
+  "project": {
+    "id": 135,
+    "name": "Test1",
+    "description": "Test1",
+    "uuid": "898118"
+  },
+  "collection": {
+    "id": 17,
+    "name": "Test1 API Collection",
+    "description": "",
+    "source_type": "postman",
+    "environments": [
+      "QA",
+      "UAT"
+    ],
+    "endpoint_count": 108
+  },
+  "environment": "UAT",
+  "rules": [
+    {
+      "id": 16,
+      "metric": "Response Time",
+      "operator": ">",
+      "unit": "ms",
+      "severity": "error",
+      "value": "1"
+    }
+  ],
+  "test_plans": [
+    {
+      "id": 22,
+      "name": "Test1 Load Test",
+      "engine": "jmeter",
+      "test_type": "load",
+      "vusers": 1,
+      "rampup": 1,
+      "iter_mode": "loops",
+      "loops": 1,
+      "duration": 300,
+      "status": "generated"
+    }
+  ],
+  "config": {
+    "urls": [
+      {
+        "protocol": "https",
+        "url": "dummyjson.com",
+        "port": "443"
+      }
+    ],
+    "jmeter_docker_image": "tasleemzaif/perfstudio:latest",
+    "k6_docker_image": "tasleemzaif/perfstudio:latest"
+  }
+}
