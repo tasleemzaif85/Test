@@ -1,4 +1,4 @@
-# Benchmark Project
+# Sweep2 Project
 
 Performance test project managed by **PerfStudio** — AI-Powered Performance Testing.
 
