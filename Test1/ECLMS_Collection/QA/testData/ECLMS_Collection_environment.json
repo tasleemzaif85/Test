@@ -1,0 +1,16 @@
+{
+  "name": "www.eclms.in Environment",
+  "values": [
+    {
+      "key": "pageloadId",
+      "value": "adcaefc4-bc6e-4058-a964-318fd489ef17",
+      "enabled": true
+    },
+    {
+      "key": "pageloadId2",
+      "value": "f2fd66f3-e73a-4850-a2f2-455a19356af1",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}

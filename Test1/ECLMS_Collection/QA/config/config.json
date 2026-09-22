@@ -6,17 +6,16 @@
     "uuid": "898118"
   },
   "collection": {
-    "id": 37,
-    "name": "Test1 API Collection",
-    "description": "Test1 API Collection",
+    "id": 147,
+    "name": "ECLMS Collection",
+    "description": "",
     "source_type": "postman",
     "environments": [
-      "QA",
-      "UAT"
+      "QA"
     ],
-    "endpoint_count": 108
+    "endpoint_count": 86
   },
-  "environment": "UAT",
+  "environment": "QA",
   "rules": [
     {
       "id": 20,
@@ -27,13 +26,31 @@
       "value": "1"
     }
   ],
-  "test_plans": [],
+  "test_plans": [
+    {
+      "id": 46,
+      "name": "ECLMS Load Test",
+      "engine": "jmeter",
+      "test_type": "load",
+      "vusers": 2,
+      "rampup": 1,
+      "iter_mode": "duration",
+      "loops": 1,
+      "duration": 60,
+      "status": "pending"
+    }
+  ],
   "config": {
     "urls": [
       {
         "protocol": "https",
         "url": "dummyjson.com",
         "port": "443"
+      },
+      {
+        "protocol": "https",
+        "url": "www.eclms.in",
+        "port": ""
       }
     ],
     "jmeter_docker_image": "tasleemzaif/perfstudio:latest",

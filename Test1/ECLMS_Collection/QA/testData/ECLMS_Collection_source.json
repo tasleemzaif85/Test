@@ -1,0 +1,3647 @@
+{
+  "info": {
+    "name": "www.eclms.in",
+    "description": "Recorded from https://www.eclms.in/ with @peako/network-recorder.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Landing Page",
+      "item": [
+        {
+          "name": "GET /assets/images/Disparate-processes-012.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Disparate-processes-012.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Disparate-processes-012.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Credit-&-operational-risk-mitigation-icons%202.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Credit-&-operational-risk-mitigation-icons%202.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Credit-&-operational-risk-mitigation-icons%202.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Complex-Lifecycle-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Complex-Lifecycle-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Complex-Lifecycle-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Shared-Security-Issues-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Shared-Security-Issues-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Shared-Security-Issues-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Reduced-Manual-Work-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Reduced-Manual-Work-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Reduced-Manual-Work-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/External-Interfaces-001.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/External-Interfaces-001.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "External-Interfaces-001.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Charge-Integration-001.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Charge-Integration-001.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Charge-Integration-001.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/alerts-and-notificatiosn-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/alerts-and-notificatiosn-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "alerts-and-notificatiosn-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Dynamic-Collateral-Tagging-icons%201.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Dynamic-Collateral-Tagging-icons%201.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Dynamic-Collateral-Tagging-icons%201.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Automated-maintenance-icons%202.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Automated-maintenance-icons%202.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Automated-maintenance-icons%202.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Workflow-based-security-onboarding-icons%201.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Workflow-based-security-onboarding-icons%201.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Workflow-based-security-onboarding-icons%201.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/manual-Valuation-001.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/manual-Valuation-001.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "manual-Valuation-001.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Enterprise-level-Integration-icons%202.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Enterprise-level-Integration-icons%202.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Enterprise-level-Integration-icons%202.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/regulatory-compliance-icons%201.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/regulatory-compliance-icons%201.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "regulatory-compliance-icons%201.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Improved-Business-Performance-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Improved-Business-Performance-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Improved-Business-Performance-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Innovation-In-Finance-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Innovation-In-Finance-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Innovation-In-Finance-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Increased-Productivity-new.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Increased-Productivity-new.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Increased-Productivity-new.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Faster-Document-Preparation.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Faster-Document-Preparation.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Faster-Document-Preparation.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/cross-white.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/cross-white.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "cross-white.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Post-onboarding-events-01-01.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Post-onboarding-events-01-01.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Post-onboarding-events-01-01.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Informed-Decision-Making-01-1-new.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Informed-Decision-Making-01-1-new.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Informed-Decision-Making-01-1-new.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/script.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/script.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "script.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/smooth-scroll.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/smooth-scroll.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "smooth-scroll.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/scrollCue.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/scrollCue.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "scrollCue.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/fslightbox.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/fslightbox.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "fslightbox.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Common-small-image-1.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Common-small-image-1.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Common-small-image-1.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/bootstrap.bundle.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/bootstrap.bundle.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "bootstrap.bundle.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Ready-to-transform-ECLMS-website-mockup-1.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Ready-to-transform-ECLMS-website-mockup-1.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Ready-to-transform-ECLMS-website-mockup-1.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/jquery-3.7.1.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/jquery-3.7.1.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "jquery-3.7.1.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/swiper-bundle.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/swiper-bundle.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "swiper-bundle.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Enterprise-Level-Integration-2.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Enterprise-Level-Integration-2.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Enterprise-Level-Integration-2.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Dynamic-Collateral-Tagging%201.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Dynamic-Collateral-Tagging%201.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Dynamic-Collateral-Tagging%201.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/risk-mitigation-.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/risk-mitigation-.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "risk-mitigation-.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Workflow-based-security-onboarding.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Workflow-based-security-onboarding.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Workflow-based-security-onboarding.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Automated-Manitenance.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Automated-Manitenance.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Automated-Manitenance.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Post-Onboarding-events-2.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Post-Onboarding-events-2.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Post-Onboarding-events-2.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/regulatory-compliance.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/regulatory-compliance.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "regulatory-compliance.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/fonts/remixicon.woff2",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Origin",
+                "value": "https://www.eclms.in"
+              },
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/assets/css/remixicon.css"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/fonts/remixicon.woff2?t=1718271040674",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "fonts",
+                "remixicon.woff2"
+              ],
+              "query": [
+                {
+                  "key": "t",
+                  "value": "1718271040674"
+                }
+              ]
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/fonts/flaticon_finto.woff2",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Origin",
+                "value": "https://www.eclms.in"
+              },
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/assets/css/flaticon_finto.css"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/fonts/flaticon_finto.woff2?e84b88e093cbcd688514115322cb8cb0=",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "fonts",
+                "flaticon_finto.woff2"
+              ],
+              "query": [
+                {
+                  "key": "e84b88e093cbcd688514115322cb8cb0",
+                  "value": ""
+                }
+              ]
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/hero/hero-image-1.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/hero/hero-image-1.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "hero",
+                "hero-image-1.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "POST /cdn-cgi/rum",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "content-type",
+                "value": "application/json"
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/cdn-cgi/rum",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "cdn-cgi",
+                "rum"
+              ],
+              "query": []
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\"startTime\":1790097112592,\"pageloadId\":\"{{pageloadId}}\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://www.eclms.in/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.9.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"152\",\"bv\":\"152\",\"ov\":\"11\"},\"memory\":{\"totalJSHeapSize\":6711930,\"usedJSHeapSize\":4066034,\"jsHeapSizeLimit\":4395630592},\"firstPaint\":2540,\"firstContentfulPaint\":2540,\"timingsV2\":{\"nextHopProtocol\":\"h3\",\"domainLookupStart\":2,\"domainLookupEnd\":102,\"connectStart\":102,\"connectEnd\":323,\"secureConnectionStart\":102,\"requestStart\":323,\"responseStart\":833,\"responseEnd\":1097,\"domInteractive\":2495,\"domComplete\":4028,\"loadEventStart\":4029,\"loadEventEnd\":4040,\"finalResponseHeadersStart\":833,\"firstInterimResponseStart\":0,\"transferSize\":10910,\"decodedBodySize\":58515},\"siteToken\":\"0c07dfabd9cf4a5d93281c3d3d692621\",\"st\":2}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /footer.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/footer.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "footer.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /mobile-header.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/mobile-header.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "mobile-header.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /header.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/header.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "header.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Favicon-ECLMS.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Favicon-ECLMS.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Favicon-ECLMS.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/ECLMS-Logo-white.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS-Logo-white.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS-Logo-white.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/mail.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/mail.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "mail.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/map.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/map.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "map.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/ECLMS%20Logo-01%201.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS%20Logo-01%201.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS%20Logo-01%201.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/phone.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/phone.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "phone.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/flag.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/flag.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "flag.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "HomePage",
+      "item": [
+        {
+          "name": "GET /assets/images/ECLMS-Short-Video-2.mp4",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "identity;q=1, *;q=0"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "Range",
+                "value": "bytes=0-"
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS-Short-Video-2.mp4",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS-Short-Video-2.mp4"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST /cdn-cgi/rum",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/cdn-cgi/rum",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "cdn-cgi",
+                "rum"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/swiper-bundle.min.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/swiper-bundle.min.css",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "swiper-bundle.min.css"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/flaticon_finto.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/flaticon_finto.css",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "flaticon_finto.css"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/scrollCue.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/scrollCue.css",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "scrollCue.css"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/remixicon.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/remixicon.css",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "remixicon.css"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/ECLMS-62.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS-62.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS-62.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /collateral-management.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/"
+              },
+              {
+                "key": "Upgrade-Insecure-Requests",
+                "value": "1"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              },
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/collateral-management.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "collateral-management.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/cross-white.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/cross-white.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "cross-white.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/jquery-3.7.1.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/jquery-3.7.1.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "jquery-3.7.1.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/bootstrap.bundle.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/bootstrap.bundle.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "bootstrap.bundle.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/swiper-bundle.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/swiper-bundle.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "swiper-bundle.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/fslightbox.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/fslightbox.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "fslightbox.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/smooth-scroll.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/smooth-scroll.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "smooth-scroll.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/scrollCue.min.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/scrollCue.min.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "scrollCue.min.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/js/script.js",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/js/script.js",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "js",
+                "script.js"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/responsive.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/responsive.css?  version=3.3",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "responsive.css"
+              ],
+              "query": [
+                {
+                  "key": "  version",
+                  "value": "3.3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/css/style.css",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/css/style.css?  version=3.3",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "css",
+                "style.css"
+              ],
+              "query": [
+                {
+                  "key": "  version",
+                  "value": "3.3"
+                }
+              ]
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/fonts/flaticon_finto.woff2",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": ""
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/fonts/flaticon_finto.woff2?e84b88e093cbcd688514115322cb8cb0=",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "fonts",
+                "flaticon_finto.woff2"
+              ],
+              "query": [
+                {
+                  "key": "e84b88e093cbcd688514115322cb8cb0",
+                  "value": ""
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/fonts/remixicon.woff2",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": ""
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/fonts/remixicon.woff2?t=1718271040674",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "fonts",
+                "remixicon.woff2"
+              ],
+              "query": [
+                {
+                  "key": "t",
+                  "value": "1718271040674"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Webp/Core-benefits.webp",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Webp/Core-benefits.webp",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Webp",
+                "Core-benefits.webp"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Webp/Transform-Your-Credit-Risk-Management-with-ECLMS.webp",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Webp/Transform-Your-Credit-Risk-Management-with-ECLMS.webp",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Webp",
+                "Transform-Your-Credit-Risk-Management-with-ECLMS.webp"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Collateral-Management.jpg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Collateral-Management.jpg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Collateral-Management.jpg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/hero/hero-image-1.webp",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/hero/hero-image-1.webp",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "hero",
+                "hero-image-1.webp"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /header.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/header.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "header.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/flag.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/flag.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "flag.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/ECLMS%20Logo-01%201.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS%20Logo-01%201.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS%20Logo-01%201.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /footer.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/footer.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "footer.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Favicon-ECLMS.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Favicon-ECLMS.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Favicon-ECLMS.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /mobile-header.html",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/mobile-header.html",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "mobile-header.html"
+              ],
+              "query": []
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/map.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/map.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "map.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/mail.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/mail.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "mail.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/svg/phone.svg",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/svg/phone.svg",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "svg",
+                "phone.svg"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/ECLMS-Logo-white.png",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/ECLMS-Logo-white.png",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "ECLMS-Logo-white.png"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        },
+        {
+          "name": "POST /cdn-cgi/rum",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "content-type",
+                "value": "application/json"
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/cdn-cgi/rum",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "cdn-cgi",
+                "rum"
+              ],
+              "query": []
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\"startTime\":1790097140502,\"pageloadId\":\"{{pageloadId2}}\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://www.eclms.in/collateral-management.html\",\"referrer\":\"https://www.eclms.in/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.9.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"152\",\"bv\":\"152\",\"ov\":\"11\"},\"memory\":{\"totalJSHeapSize\":8303207,\"usedJSHeapSize\":4947551,\"jsHeapSizeLimit\":4395630592},\"firstPaint\":1324,\"firstContentfulPaint\":1324,\"timingsV2\":{\"nextHopProtocol\":\"h3\",\"domainLookupStart\":3,\"domainLookupEnd\":3,\"connectStart\":3,\"connectEnd\":3,\"secureConnectionStart\":3,\"requestStart\":3,\"responseStart\":340,\"responseEnd\":468,\"domInteractive\":1330,\"domComplete\":2063,\"loadEventStart\":2063,\"loadEventEnd\":2069,\"finalResponseHeadersStart\":340,\"firstInterimResponseStart\":0,\"transferSize\":7813,\"decodedBodySize\":35766},\"siteToken\":\"0c07dfabd9cf4a5d93281c3d3d692621\",\"st\":2}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "GET /assets/images/Dynamic-Tagging.mp4",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "sec-ch-ua-platform",
+                "value": "\"Windows\""
+              },
+              {
+                "key": "Referer",
+                "value": "https://www.eclms.in/collateral-management.html"
+              },
+              {
+                "key": "Accept-Encoding",
+                "value": "identity;q=1, *;q=0"
+              },
+              {
+                "key": "User-Agent",
+                "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+              },
+              {
+                "key": "sec-ch-ua",
+                "value": "\"Chromium\";v=\"152\", \"Not?A_Brand\";v=\"24\", \"Google Chrome\";v=\"152\""
+              },
+              {
+                "key": "Range",
+                "value": "bytes=0-"
+              },
+              {
+                "key": "sec-ch-ua-mobile",
+                "value": "?0"
+              }
+            ],
+            "url": {
+              "raw": "https://www.eclms.in/assets/images/Dynamic-Tagging.mp4",
+              "protocol": "https",
+              "host": [
+                "www",
+                "eclms",
+                "in"
+              ],
+              "path": [
+                "assets",
+                "images",
+                "Dynamic-Tagging.mp4"
+              ],
+              "query": []
+            },
+            "description": "Large/binary body captured locally, not embedded (response→[object Promise])."
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
